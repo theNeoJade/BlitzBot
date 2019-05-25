@@ -1,0 +1,12 @@
+{
+  "prefix": "b!",
+  "bname": "BlitzBot",
+  "bversion": "6.0.0",
+  "bupdate": "The Official restart of Blitz Bot, Herro!",
+  "statuses": [
+    " to b!help | Update: ${bupdate}",
+    " to b!help",
+    " for b!help | On ${bot.guilds.size} Servers and looking at ${bot.members.size} people",
+    " for b!help"
+  ]
+}

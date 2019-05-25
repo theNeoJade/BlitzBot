@@ -1,0 +1,18 @@
+{
+  "name": "blitzbot",
+  "version": "6.0.0",
+  "description": "My Newest Test Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neon",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^0.6.3",
+    "discord.js": "^11.5.0",
+    "mongoose": "^5.5.7",
+    "ms": "^2.1.1"
+  },
+  "devDependencies": {}
+}
